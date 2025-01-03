@@ -67,7 +67,7 @@ div {
 .fundo {
   border: 1px dotted;
   background-color: black;
-  background-image: url(../assets/images/Insurgente.png);
+  background-image: url(/assets/images/Insurgente.png);
   background-position: right;
   background-repeat: no-repeat;
   overflow: hidden;
@@ -87,7 +87,7 @@ h2 {
 .segundo {
   border: 1px dotted;
   background-color: hsl(115, 74%, 34%);
-  background-image: url(../assets/images/Justiceiro.jpg);
+  background-image: url(/assets/images/Justiceiro.jpg);
   background-position: right bottom;
   background-repeat: no-repeat;
   background-size: cover;
